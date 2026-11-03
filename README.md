@@ -24,3 +24,7 @@ This project is based on coffee shop sales data. I created an interactive dashbo
 
 ## Project Type
 Practice Project
+
+## Dashboard Preview
+
+![BrewMetrics Dashboard](BrewMetrics-Dashboard.png)
